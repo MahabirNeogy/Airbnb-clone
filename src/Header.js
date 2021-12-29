@@ -16,7 +16,7 @@ function Header() {
             <Link to='/'> 
             <img
                     className="header__icon"
-                    src="https://lh3.googleusercontent.com/proxy/BTdzoxGOuFQls_b0CrDjlQ9oIddkKk9mQW45SHUPArYpo6oOy4dm_nfURNC5_jyruw_nh-3GktBOH81GPbCSQdQbRcbaseZ_DmsYQf8aXc4sp2kCb2ZaXKTYMGGPjB91ekUSeULZuuLAcWjUGp175RMMJfjpwfkH"
+                    src="https://i.pinimg.com/originals/3c/bf/be/3cbfbe148597341fa56f2f87ade90956.png"
                     alt=""
                 />
             </Link>
